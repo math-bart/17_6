@@ -1,0 +1,43 @@
+body {
+	background: -webkit-linear-gradient(#F0FFFF, #FFCC66);
+	min-height: 100vh;
+}
+
+form {
+	text-align: center;
+	margin-top: 20vh;
+}
+
+form p {
+	font-size: 22px;
+	color: #97a;
+}
+
+input {
+	height: 35px;
+	font-size: 22px;
+	width: 200px;
+	
+}
+
+.btn {
+	width: 100px;
+	cursor: pointer;
+	color: #97a;
+}
+
+.btn:hover {
+	color: #fff;
+	background: #555;
+}
+
+.container {
+	margin: 50px;
+}
+
+.img {
+	background-image: url('https://tabarnapp.com/assets/img/secure-checkout.png?v=7a1cd55691');
+	background-size: cover;
+	width: 600px;
+	min-height: 100px;
+}
